@@ -4,7 +4,7 @@
 *main - print the string out put function
 *Description: using the main function
 *this program print Programming is like building a multilingual puzzle
-*return 0
+*Return: 0
 */
 int main(void)
 {
